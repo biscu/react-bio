@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Avgardn";
+  src: url("./font/AVGARDN.TTF") format("truetype");
+}
+@font-face {
+  font-family: "Galano";
+  src: url("./font/Galano-Grotesque.otf") format("opentype");
+}
+:root {
+}
+
+body {
+  background-color: rgb(209, 209, 209);
+  color: #1c1c1c;
+  font-family: "Galano";
+  letter-spacing: -0.1rem;
+}

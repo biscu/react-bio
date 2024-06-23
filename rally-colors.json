@@ -1,0 +1,172 @@
+{
+  "extension": {
+    "light": {
+      "banner": {
+        "info": "#2f2bdc",
+        "info-container": "#d3d2fd",
+        "on-info-container": "#000000",
+        "success": "#19884a",
+        "success-container": "#b7edce",
+        "on-success-container": "#000000",
+        "error": "#be110a",
+        "error-container": "#fcbfbd",
+        "on-error-container": "#000000",
+        "warning": "#9a6c00",
+        "warning-container": "#ffe7ac",
+        "on-warning-container": "#000000"
+      },
+      "button": {
+        "primary": "#872878",
+        "on-primary": "#ffffff",
+        "on-surface": "#000000",
+        "destructive": "#be110a",
+        "on-destructive": "#ffffff",
+        "surface-container": "#f4f4f4"
+      },
+      "input-field": {
+        "on-surface": "#000000",
+        "on-surface-variant": "#555555",
+        "secondary": "#ff52a3",
+        "error": "#be110a",
+        "primary": "#872878"
+      },
+      "checkbox": {
+        "primary": "#872878",
+        "on-primary": "#ffffff",
+        "on-surface-variant": "#555555",
+        "on-surface": "#000000"
+      },
+      "badge": {
+        "secondary": "#ff52a3",
+        "on-secondary": "#000000",
+        "error": "#be110a",
+        "on-error": "#ffffff",
+        "success": "#19884a",
+        "on-success": "#ffffff"
+      }
+    },
+    "dark": {
+      "banner": {
+        "info": "#a4a3f9",
+        "info-container": "#03015c",
+        "on-info-container": "#ffffff",
+        "success": "#89daad",
+        "success-container": "#033719",
+        "on-success-container": "#ffffff",
+        "error": "#f89490",
+        "error-container": "#3c0301",
+        "on-error-container": "#ffffff",
+        "warning": "#ffd66c",
+        "warning-container": "#3b2a00",
+        "on-warning-container": "#ffffff"
+      },
+      "button": {
+        "primary": "#da95cf",
+        "on-primary": "#000000",
+        "on-surface": "#ffffff",
+        "destructive": "#f89490",
+        "on-destructive": "#000000",
+        "surface-container": "#2a2a2a"
+      },
+      "input-field": {
+        "on-surface": "#ffffff",
+        "on-surface-variant": "#aaaaaa",
+        "secondary": "#ff52a3",
+        "error": "#f89490",
+        "primary": "#da95cf"
+      },
+      "checkbox": {
+        "primary": "#da95cf",
+        "on-primary": "#000000",
+        "on-surface-variant": "#aaaaaa",
+        "on-surface": "#ffffff"
+      },
+      "badge": {
+        "secondary": "#ff52a3",
+        "on-secondary": "#000000",
+        "error": "#f89490",
+        "on-error": "#000000",
+        "success": "#89daad",
+        "on-success": "#000000"
+      }
+    }
+  },
+  "semantic": {
+    "light": {
+      "surface": "#ffffff",
+      "surface-bright": "#ffffff",
+      "surface-container": "#f4f4f4",
+      "on-surface": "#000000",
+      "on-surface-variant": "#555555",
+      "primary": "#872878",
+      "on-primary": "#ffffff",
+      "primary-container": "#f6d4f1",
+      "on-primary-container": "#000000",
+      "secondary": "#ff52a3",
+      "on-secondary": "#000000",
+      "warning": "#9a6c00",
+      "on-warning": "#ffffff",
+      "warning-container": "#ffe7ac",
+      "on-warning-container": "#000000",
+      "error": "#be110a",
+      "on-error": "#ffffff",
+      "error-container": "#fcbfbd",
+      "on-error-container": "#000000",
+      "destructive": "#be110a",
+      "on-destructive": "#ffffff",
+      "success": "#19884a",
+      "on-success": "#ffffff",
+      "success-container": "#b7edce",
+      "on-success-container": "#000000",
+      "info": "#2f2bdc",
+      "on-info": "#ffffff",
+      "info-container": "#d3d2fd",
+      "on-info-container": "#000000",
+      "charging": "#05695b",
+      "on-charging": "#ffffff",
+      "parking": "#2f2bdc",
+      "on-parking": "#ffffff",
+      "divider": "#dfdfdf",
+      "outline": "#6a6a6a",
+      "outline-variant": "#872878"
+    },
+    "dark": {
+      "surface": "#000000",
+      "surface-bright": "#151515",
+      "surface-container": "#2a2a2a",
+      "on-surface": "#ffffff",
+      "on-surface-variant": "#aaaaaa",
+      "primary": "#da95cf",
+      "on-primary": "#000000",
+      "primary-container": "#520c47",
+      "on-primary-container": "#ffffff",
+      "secondary": "#ff52a3",
+      "on-secondary": "#000000",
+      "warning": "#ffd66c",
+      "on-warning": "#000000",
+      "warning-container": "#3b2a00",
+      "on-warning-container": "#ffffff",
+      "error": "#f89490",
+      "on-error": "#000000",
+      "error-container": "#3c0301",
+      "on-error-container": "#ffffff",
+      "destructive": "#f89490",
+      "on-destructive": "#000000",
+      "success": "#89daad",
+      "on-success": "#000000",
+      "success-container": "#033719",
+      "on-success-container": "#ffffff",
+      "info": "#a4a3f9",
+      "on-info": "#000000",
+      "info-container": "#03015c",
+      "on-info-container": "#ffffff",
+      "charging": "#7ad7ca",
+      "on-charging": "#000000",
+      "parking": "#a4a3f9",
+      "on-parking": "#000000",
+      "divider": "#404040",
+      "outline": "#959595",
+      "outline-variant": "#da95cf"
+    }
+  }
+}
